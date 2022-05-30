@@ -1,4 +1,4 @@
-# self-organized-value-chain
+# self-organizing-value-chain
 
 ## 背景
 石器時代から人は直面した問題を解決するために道具や手法を考案し、やがてそれらを他の人にも使えるよう製品やサービスとして定式化してきた。
